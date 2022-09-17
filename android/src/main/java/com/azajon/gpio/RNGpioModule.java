@@ -1,5 +1,5 @@
 
-package com.dreebit.gpio;
+package com.azajon.gpio;
 
 import com.google.android.things.pio.Gpio;
 import com.google.android.things.pio.GpioCallback;

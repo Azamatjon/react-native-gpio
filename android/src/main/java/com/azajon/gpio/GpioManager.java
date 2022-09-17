@@ -1,4 +1,4 @@
-package com.dreebit.gpio;
+package com.azajon.gpio;
 
 import com.google.android.things.pio.Gpio;
 import com.google.android.things.pio.GpioCallback;
@@ -19,7 +19,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
 
-import com.dreebit.gpio.Throttle;
+import com.azajon.gpio.Throttle;
 
 import static android.content.ContentValues.TAG;
 

@@ -1,4 +1,4 @@
-package com.dreebit.gpio;
+package com.azajon.gpio;
 
 import android.view.animation.AnimationUtils;
 
